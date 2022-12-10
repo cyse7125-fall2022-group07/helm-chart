@@ -1,3 +1,10 @@
+## [1.1.5](https://github.com/cyse7125-fall2022-group07/helm-chart/compare/v1.1.4...v1.1.5) (2022-12-10)
+
+
+### Bug Fixes
+
+* **git:** New Code ([3eebb85](https://github.com/cyse7125-fall2022-group07/helm-chart/commit/3eebb854dba4aab437f41c157dbb0ec5e3d0b3d0))
+
 ## [1.1.4](https://github.com/cyse7125-fall2022-group07/helm-chart/compare/v1.1.3...v1.1.4) (2022-12-10)
 
 
